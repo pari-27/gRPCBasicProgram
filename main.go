@@ -5,10 +5,10 @@ package main
 
 import (
 	"fmt"
-	"joshsoftware/golang-boilerplate/config"
-	"joshsoftware/golang-boilerplate/db"
-	"joshsoftware/golang-boilerplate/service"
 	"os"
+	"pari-27/gRPCBasicProgram/config"
+	"pari-27/gRPCBasicProgram/db"
+	"pari-27/gRPCBasicProgram/service"
 	"strconv"
 
 	logger "github.com/sirupsen/logrus"
